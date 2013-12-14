@@ -11,5 +11,6 @@
 @interface WSAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+//This is a useless note.
 
 @end
